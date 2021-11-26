@@ -1,7 +1,7 @@
 # nodets-canilDev
 Project by courses B7Web
 
-### global Requiriments:
+### global Requirements:
 
 `npm i nodemon typescript node-ts`
 
